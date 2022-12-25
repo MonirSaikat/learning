@@ -38,3 +38,14 @@ Here is list of my 👏 technologies
 - [ ] Security
 - [ ] GraphQL
 - [ ] Docker
+
+### Databases
+- [x] MySQL
+- [x] MongoDB
+- [ ] PostgreSQL 
+- [ ] MariaDB
+- [ ] Caching
+  - [ ] Redis
+  - [ ] Memchached
+
+
