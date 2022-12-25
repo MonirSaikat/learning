@@ -1,7 +1,7 @@
 # learning
 Here is list of my 👏 technologies 
 
-### Node.js
+### Node.js and Javascript
 - [x] npm
 - [x] yarn
 - [x] Express
@@ -11,6 +11,9 @@ Here is list of my 👏 technologies
 - [ ] Should.js
 - [ ] Prisma
 - [x] mongoose
+- [x] React.js
+- [x] jQuery
+  
 
 ### PHP 
 - [ ] composer
